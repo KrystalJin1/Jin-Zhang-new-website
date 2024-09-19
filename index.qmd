@@ -2,4 +2,4 @@
 title: "Jin Zhang's website"
 ---
 
-Welcome to my new website! I am a student at the University of Toronto majoring in Economics and Statistics.
+Hi! Welcome to my new website! I am a student at the University of Toronto majoring in Economics and Statistics.
